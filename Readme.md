@@ -17,3 +17,6 @@ expo init my-app --template @native-base/expo-template
 7) Firebase
 
 
+## Screenshots of the App
+
+<img src="https://user-images.githubusercontent.com/52703087/177028135-641d3e79-5bcf-4fb3-9eb5-2ac114c72716.jpg" height="400px" width="300px" />
