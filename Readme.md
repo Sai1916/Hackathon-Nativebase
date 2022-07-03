@@ -28,3 +28,6 @@ expo init my-app --template @native-base/expo-template
   <img src="https://user-images.githubusercontent.com/52703087/177028250-9668ec4a-8240-4d70-a0fd-f9fff25d5fce.jpg" height="740px" width="360px" />
 </div>
 
+## Demo video link
+[Video link] 
+## https://drive.google.com/file/d/1XAGezADdY-Gd6eQhz6vsr3F7MfWHD4Jg/view?usp=drivesdk
